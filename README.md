@@ -1,6 +1,6 @@
 Fuck You Coin (FYC) is a revolutionary new currency.
 
-Instead of "proof of work", this currency only requires "Proof Of Fuck You". When someone wants to be paid, here are some methods of POFY:
+Instead of "proof of work", this currency only requires "Proof Of Fuck You". When a corporation wants to be paid, here are some methods of POFY:
 * flip your middle finger
 * say a few righteous words
 * be a rad, down human
